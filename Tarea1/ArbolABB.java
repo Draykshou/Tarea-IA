@@ -1,5 +1,3 @@
-package ED;
-
 public class ArbolABB <T> {
 	private NodoABB<T> raiz, nodoNuevo;
 	private T dr;

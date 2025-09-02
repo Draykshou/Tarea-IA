@@ -1,5 +1,3 @@
-package ED;
-
 public class NodoABB <T>{
 	private NodoABB<T>   subIzq;
 	private T Info;
